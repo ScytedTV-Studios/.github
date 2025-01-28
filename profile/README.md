@@ -52,7 +52,7 @@ See when we last updated our most popular projects.
 [lhl]: https://github.com/ScytedTV-Studios/LoydsHelper
 [sbi]: https://img.shields.io/github/last-commit/ScytedTV-Studios/Suggestr-Bot?label
 [sbl]: https://github.com/ScytedTV-Studios/Suggestr-Bot
-[bxi]: https://img.shields.io/github/last-commit/ScytedTV-Studios/BanX?label
+[bxi]: https://img.shields.io/github/last-commit/ScytedTV-Studios/BanX?display_timestamp=author
 [bxl]: https://github.com/ScytedTV-Studios/BanX
 [sni]: https://img.shields.io/github/last-commit/ScytedTV-Studios/SimplyNetwork?label
 [snl]: https://github.com/ScytedTV-Studios/SimplyNetwork
