@@ -39,6 +39,7 @@ See when we last updated our most popular projects.
 | API                    | [![][apii]][apil] |
 | LoydsHelper            | [![][lhi]][lhl]   |
 | Suggestr-Bot           | [![][sbi]][sbl]   |
+| BanX                   | [![][bxi]][bxl]   |
 | SimplyNetwork          | [![][sni]][snl]   |
 | JuJus-Better-Wynncraft | [![][jbwi]][jbwl] |
 | .github                | [![][ghi]][ghl]   |
@@ -51,6 +52,8 @@ See when we last updated our most popular projects.
 [lhl]: https://github.com/ScytedTV-Studios/LoydsHelper
 [sbi]: https://img.shields.io/github/last-commit/ScytedTV-Studios/Suggestr-Bot?label
 [sbl]: https://github.com/ScytedTV-Studios/Suggestr-Bot
+[bxi]: https://img.shields.io/github/last-commit/ScytedTV-Studios/BanX?label
+[bxl]: https://github.com/ScytedTV-Studios/BanX
 [sni]: https://img.shields.io/github/last-commit/ScytedTV-Studios/SimplyNetwork?label
 [snl]: https://github.com/ScytedTV-Studios/SimplyNetwork
 [jbwi]: https://img.shields.io/github/last-commit/ScytedTV-Studios/JuJus-Better-Wynncraft?label
