@@ -35,28 +35,16 @@ See when we last updated our most popular projects.
 
 | Repository             | Last Updated      |
 | ---------------------- | ----------------- |
-| www.scyted.tv          | [![][wwwi]][wwwl] |
-| API                    | [![][apii]][apil] |
-| LoydsHelper            | [![][lhi]][lhl]   |
 | Suggestr-Bot           | [![][sbi]][sbl]   |
 | BanX                   | [![][bxi]][bxl]   |
 | SimplyNetwork          | [![][sni]][snl]   |
 | JuJus-Better-Wynncraft | [![][jbwi]][jbwl] |
-| .github                | [![][ghi]][ghl]   |
 
-[wwwi]: https://img.shields.io/github/last-commit/ScytedTV-Studios/www.scyted.tv?label
-[wwwl]: https://github.com/ScytedTV-Studios/www.scyted.tv
-[apii]: https://img.shields.io/github/last-commit/ScytedTV-Studios/API?label
-[apil]: https://github.com/ScytedTV-Studios/API
-[lhi]: https://img.shields.io/github/last-commit/ScytedTV-Studios/LoydsHelper?label
-[lhl]: https://github.com/ScytedTV-Studios/LoydsHelper
-[sbi]: https://img.shields.io/github/last-commit/ScytedTV-Studios/Suggestr-Bot?label
-[sbl]: https://github.com/ScytedTV-Studios/Suggestr-Bot
 [bxi]: https://img.shields.io/github/last-commit/ScytedTV-Studios/BanX?display_timestamp=author
 [bxl]: https://github.com/ScytedTV-Studios/BanX
+[sbi]: https://img.shields.io/github/last-commit/ScytedTV-Studios/Suggestr-Bot?label
+[sbl]: https://github.com/ScytedTV-Studios/Suggestr-Bot
 [sni]: https://img.shields.io/github/last-commit/ScytedTV-Studios/SimplyNetwork?label
 [snl]: https://github.com/ScytedTV-Studios/SimplyNetwork
 [jbwi]: https://img.shields.io/github/last-commit/ScytedTV-Studios/JuJus-Better-Wynncraft?label
 [jbwl]: https://github.com/ScytedTV-Studios/JuJus-Better-Wynncraft
-[ghi]: https://img.shields.io/github/last-commit/ScytedTV-Studios/.github?label
-[ghl]: https://github.com/ScytedTV-Studios/.github
